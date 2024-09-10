@@ -8,7 +8,7 @@
  ## 🙋‍♂️ About Me
 
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently Learning **DSA**
  
 - 🔥 I'm also enhancing myself in the field of **Ml And Ai**
 
